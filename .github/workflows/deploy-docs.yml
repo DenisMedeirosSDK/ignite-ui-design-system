@@ -21,7 +21,7 @@ jobs:
 
       - run: npm run build
         env:
-          TURBO_TOKEN: ${{secrets.TURBO_TOKEN_IGNITE_UI}}
+          TURBO_TOKEN: ${{ secrets.TURBO_TOKEN_IGNITE_UI }}
           TURBO_TEAM: denismedeirossdk
 
       - name: Deploy storybook
