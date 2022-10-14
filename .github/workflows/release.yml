@@ -22,7 +22,7 @@ jobs:
           cache: 'npm'
           cache-dependency-path: '**/package-lock.json'
 
-      - run: npm ci --legacy-peer-deps
+      - run: npm ci --legacy-peer-deps --force
 
       - name: Publish to npm
         id: changesets
