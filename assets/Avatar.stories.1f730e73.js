@@ -1,0 +1,2 @@
+import{A as t}from"./index.75e1f79d.js";import"./index.f13bec84.js";import"./iframe.33528cde.js";import"./index.e5ac00bc.js";import"./jsx-runtime.484bcf41.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/denismedeirossdk.png",alt:"Denis Medeiros"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,c as WithFallback,m as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.1f730e73.js.map
